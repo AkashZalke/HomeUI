@@ -1,6 +1,10 @@
 
 /* Ritesh Parkhi start */
 
+*{
+    scroll-behavior: smooth !important;
+    }
+
 body {
     margin: 0;
     font-family: Helvetica, sans-serif;
@@ -152,6 +156,7 @@ body {
     width:100%;
     height: 100vh;
 }
+
 
 /* Ritesh Parkhi end */
 
