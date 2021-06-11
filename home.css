@@ -1,3 +1,6 @@
+
+/* Ritesh Parkhi start */
+
 * {
     margin: 0;
     padding: 0;
@@ -126,6 +129,15 @@ a {
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+
+
+/* Ritesh Parkhi end */
+
+
+
+
+
+
 body {
 font-size: 16px;
 font-family: 'Roboto', sans-serif;

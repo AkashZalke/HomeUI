@@ -1,3 +1,5 @@
+// Ritesh Parkhi start
+
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 const navLink = document.querySelectorAll(".nav-link");
@@ -14,6 +16,11 @@ function closeMenu() {
     hamburger.classList.remove("active");
     navMenu.classList.remove("active");
 }
+
+// Ritesh Parkhi end
+
+
+
 //duplicates flex card
 
 document.getElementById('duplicateCard').onclick = duplicate;
