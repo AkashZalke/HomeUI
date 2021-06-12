@@ -309,3 +309,8 @@ animation-iteration-count: 1; }
  * production code, beware of the browser
  * prefixes.
  */
+
+ .home_img{
+   width: 100%;
+   height: auto;
+ }
