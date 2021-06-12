@@ -8,7 +8,7 @@
 body {
     margin: 0;
     font-family: Helvetica, sans-serif;
-    background-color: #f4f4f4;
+    background-image: url("images/cool-background.png");
   }
   
   a {
@@ -18,7 +18,7 @@ body {
   /* header */
   
   .header {
-    background-color: transparent;
+    background-color: black;
     /* box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1); */
     position: absolute;
     width: 100%;
@@ -30,7 +30,7 @@ body {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: transparent;
+    background-color: black;
   }
   
   .header li a {
@@ -56,8 +56,9 @@ body {
   }
   
   /* menu */
-  
+
   .header .menu {
+
     clear: both;
     max-height: 0;
     transition: max-height .2s ease-out;
@@ -163,12 +164,9 @@ body {
 
 /* Akash Zalke start */
 .item{
-  display: block;
+  
   width: 100%;
-  max-height: 60vh;
-  height: auto;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  height: 80vh;
 }
 
 /* Akash Zalke end */
